@@ -1,6 +1,8 @@
-# Getting Started with Yoti’s Age Estimation 
+# Getting Started with Yoti Age Estimation 
 
-Currently the camera is able to capture a picture, the backend services have not been completed. 
+Currently the camera can capture a picture, the backend services have not been completed. 
+
+Instructions are given below how to initialise the project. 
 
 ## Available Scripts
 
