@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Yoti’s Age Estimation 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Currently the camera is able to capture a picture, the backend services have not been completed. 
 
 ## Available Scripts
 
@@ -68,3 +68,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
