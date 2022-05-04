@@ -21,6 +21,7 @@ function App() {
         console.log.error(err);
       });
   };
+  
 
   const takePhoto = () => {
     const width = 414;
