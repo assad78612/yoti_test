@@ -10,6 +10,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+You can run this in a Code Editor such as Visual Code, by running the NPM in that terminal or command Prompt. You will then be able to view the project running locally. 
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
