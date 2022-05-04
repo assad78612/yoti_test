@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import React, { useRef, useEffect, useState } from "react";
 
 function App() {
@@ -40,6 +39,7 @@ function App() {
     let ctx = photo.getContext("2d");
     setHasPhoto(false);
 
+    //This will clear the old captured photo and start fresh
     ctx.clear(0, 0, photo.width, photo.height);
     setHasPhoto(false);
   };
